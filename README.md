@@ -20,3 +20,12 @@ Model Creation
 Model Training
 
     Train the model on the processed and feature-extracted images.
+
+Model is trained on images of 6 personalities.
+
+        Jeff Bezos
+        Elon Musk
+        Sundar Pichai
+        Pavel Durov
+        Satya Nandella
+        Sam Altman
